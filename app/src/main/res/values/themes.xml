@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.BankApp" parent="Theme.MaterialComponents.Light">
+        <item name="android:statusBarColor">@color/yellow40</item> –
+    </style>
+</resources>
